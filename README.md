@@ -3,7 +3,7 @@ This is a workshop which introduces basic Docker and AWS concepts on how to use 
 
 ## Prerequisites ##
  * Docker Installation [Windows Installation](https://docs.docker.com/v17.09/docker-for-windows/install/) / [Mac Installation](https://docs.docker.com/docker-for-mac/install/) 
- * [AWS Free/Paid Account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
+ * Click on link [AWS Free/Paid Account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start) 
 
 
 
