@@ -1,3 +1,6 @@
-# An overview about Sirani McNeill in Technology with Code Like a Girl
+# DevOps in AWS and Docker Workshop
 
-#LearningRepository
+
+
+
+# Who is this course for
