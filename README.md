@@ -4,7 +4,7 @@
 # Prerequisites #
 ### Docker [Windows Installation] (https://docs.docker.com/v17.09/docker-for-windows/install/)]  /                                         [Mac Installation] (https://docs.docker.com/docker-for-mac/install/)  ###
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://docs.docker.com/v17.09/docker-for-windows/install/)
 
 
 # Who is this course for
