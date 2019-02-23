@@ -1,8 +1,8 @@
 # DevOps in AWS and Docker Workshop
-### This is a workshop which introduces basic Docker concepts on how to use it, why it's important, and where to get more information ###
+#### This is a workshop which introduces basic Docker concepts on how to use it, why it's important, and where to get more information ####
 
 # Prerequisites #
-### Docker Installation [Windows Installation](https://docs.docker.com/v17.09/docker-for-windows/install/) / [Mac Installation](https://docs.docker.com/docker-for-mac/install/)  ###
+#### Docker Installation [Windows Installation](https://docs.docker.com/v17.09/docker-for-windows/install/) / [Mac Installation](https://docs.docker.com/docker-for-mac/install/)  ####
 
 
 
