@@ -2,7 +2,7 @@
 ### This is a workshop which introduces basic Docker concepts on how to use it, why it's important, and where to get more information ###
 
 # Prerequisites #
-### Docker Windows Installation [(https://docs.docker.com/v17.09/docker-for-windows/install/)] / (https://docs.docker.com/docker-for-mac/install) ###
+### Docker [Windows Installation] (https://docs.docker.com/v17.09/docker-for-windows/install/) / [Mac Installation] (https://docs.docker.com/docker-for-mac/install) ###
 
 
 # Who is this course for
