@@ -9,7 +9,7 @@ gem 'rake'
 gem 'rubysl-base64'
 
 # These are the dependencies that are used only for unit tests.
-<style="color:red"> group :test do
+ group :test do
   gem "rspec"
   gem "rack-test"
-end
+<style="color:red">end </style>
