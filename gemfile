@@ -10,6 +10,6 @@ gem 'rubysl-base64'
 
 # These are the dependencies that are used only for unit tests.
  group :test do
-  gem "rspec"
-  gem "rack-test"
-  <span style=“color:green;”> end </span>
+ gem "rspec"
+ gem "rack-test"
+ <span style=“color:red;”> end </span>
