@@ -12,3 +12,18 @@ This is a workshop which introduces basic Docker and AWS concepts on how to use 
  This is for aspiring beginner developers, students, career changers who would like to work in the DevOps field; however we do have some activities on here available for the intermediate/advanced - also please expect to mentor those who are not as fluent in the language!
 
 # TASKS #
+
+MEL
+- [ ] Basics of AWS Lambda
+- [ ] More detailed/intermediate in AWS Lambda
+- [ ] How AWS Lambda works in DevOps
+
+KENEC
+- [ ] Basics in Docker
+- [ ] More detailed/intermediate in Docker/ElasticSearch
+- [ ] How it works in DevOps cycle
+
+Zaadie/Zainab 
+- [ ] DevOps Cycle Iteration 
+- [ ] Editing and rephrasing documentation
+- [ ] What is DevOps to non-technical people?
