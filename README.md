@@ -13,7 +13,7 @@ This is a workshop which introduces basic Docker and AWS concepts on how to use 
 
 # TASKS #
 
-MEL
+Sirani
 - [ ] Basics of AWS Lambda
 - [ ] More detailed/intermediate in AWS Lambda
 - [ ] How AWS Lambda works in DevOps
