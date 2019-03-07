@@ -19,12 +19,12 @@ Sirani
 - [ ] More detailed/intermediate in AWS Lambda
 - [ ] How AWS Lambda works in DevOps
 
-~~KENEC~~ 
+
 - [ ] Basics in Docker
 - [ ] More detailed/intermediate in Docker/ElasticSearch
 - [ ] How it works in DevOps cycle
 
-~~Z&Z~~
+
 - [ ] DevOps Cycle Iteration 
 - [ ] Editing and rephrasing documentation
 - [ ] What is DevOps to non-technical people?
